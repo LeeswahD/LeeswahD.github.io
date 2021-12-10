@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family:cursive;
-    color: rgb(219, 181, 179);
+    color: rgb(0, 0, 0);
 }
 
 body{
@@ -51,7 +51,7 @@ nav.desk ul li.active{
 }
 nav ul li a{
     color: rgb(33, 22, 189);
-    text-decoration: salmon;
+    text-decoration: rgb(151, 71, 62);
 }
 .hero-image{
     width: 100%;
